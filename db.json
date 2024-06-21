@@ -1,0 +1,15 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "email": "nikita.serebro@mail.ru",
+        "password": "1234&Admin",
+        "first_name": "Nikita",
+        "last_name": "Serebrenitskii",
+        "profile_photo": "default-profile-photo.png",
+        "date_of_birth": "2001-06-27T00:00:00Z",
+        "gender": 1,
+        "join_date": "2024-06-01T00:00:00Z"
+      }
+    ]
+  }
